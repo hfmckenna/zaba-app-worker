@@ -1,5 +1,5 @@
 {
-	"name": "zaba-interface",
+	"name": "zaba-app-worker",
 	"version": "0.0.0",
 	"private": true,
 	"type": "module",
