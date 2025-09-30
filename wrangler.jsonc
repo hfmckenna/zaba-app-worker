@@ -14,7 +14,7 @@
 		"producers": [
 			{
 				"queue": "zaba-ingress-queue",
-				"binding": "zaba-app-worker"
+				"binding": "INGRESS_QUEUE"
 			}
 		]
 	},
